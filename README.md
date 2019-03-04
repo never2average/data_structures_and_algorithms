@@ -1,1 +1,1 @@
-# data_structures
+# A collection of miscellaneous data structures and algorithms
